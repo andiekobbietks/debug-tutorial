@@ -139,6 +139,24 @@ the boring stuff, let's get to the dopamine rushes. I mean the bugs.
 Proceed to [Lab 1](docs/lab1.md).
 
 
+## Extended Challenge: From Debugging to Production Engineering
+
+Once you have completed the original seven debugging labs, take on the optional extension: evolve the tutorial application into a service that can be tested, containerised, secured, deployed and operated.
+
+The challenge covers:
+
+- Reproducible development in WSL/Linux.
+- Docker and Docker Compose.
+- GitHub Actions continuous integration.
+- Automated tests, linting and dependency security checks.
+- Django security configuration and safe secret handling.
+- Structured logging, health checks and incident response.
+- Optional deployment to AWS, Azure or OCI.
+- Optional Terraform infrastructure as code.
+
+This is an extension brief, not functionality already implemented in the starter project. The original labs remain the foundation. Follow the staged requirements and definition of done in [Extended Challenge](docs/extended_challenge.md).
+
+
 ## Windows non-WSL Setup
 
 1. From the command prompt, create a virtual environment.
